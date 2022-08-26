@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="D:\JAR\User-Service.zip"/>
+			<item value="D:\JAR\Service-Registry.zip"/>
+			<item value="D:\JAR\Product-Service.zip"/>
+			<item value="D:\JAR\Order-Service.zip"/>
+			<item value="D:\JAR\Category-Service.zip"/>
+			<item value="D:\JAR\Cart-Service.zip"/>
+		</list>
+	</section>
+</section>
